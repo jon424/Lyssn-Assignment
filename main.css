@@ -1,0 +1,20 @@
+* {
+  text-align: center;
+}
+
+.username {
+  cursor: pointer;
+  border: 1px solid gray;
+  margin-left: 45%;
+  margin-right: 45%;
+  margin-top: 3%;
+}
+
+.username:hover {
+  border: 2px solid black;
+}
+
+#hidden {
+  display: none;
+}
+
